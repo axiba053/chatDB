@@ -19,5 +19,7 @@ streamlit run chatDB.py
 ## 视频教程
 B站视频教程：[chatgpt结合知识库 打造专业客服——网页版](https://www.bilibili.com/video/BV12u4y1X7Rg)
 
+**欢迎三连+关注！**
+
 
 
