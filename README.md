@@ -11,7 +11,13 @@
 pip install -r requirements.txt
 ```
 
-2. 运行
+2. 填入API
+```
+打开.env文件，在下面填入自己的API
+OPENAI_API_KEY='填入你自己的API'
+```   
+
+3. 运行
 ```commandline
 streamlit run chatDB.py
 ```
