@@ -1,8 +1,6 @@
 # chatDB
 **利用文件建立永久数据库，结合chatgpt提问，实现专业客服功能。**
 
-界面如下：
-![girl](./image/jiemian.png)
 
 ## 安装说明
 
@@ -25,7 +23,6 @@ streamlit run chatDB.py
 ## 视频教程
 B站视频教程：[chatgpt结合知识库 打造专业客服——网页版](https://www.bilibili.com/video/BV12u4y1X7Rg)
 
-**欢迎三连+关注！**
 
 
 
